@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ziad-bani-almargih.netlify.app/sitemap.xml
